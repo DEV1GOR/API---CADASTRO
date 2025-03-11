@@ -34,8 +34,8 @@ Cadastro de novos usuários com informações como:
 - JavaScript: Linguagem principal do projeto
 
 📋 Requisitos
-
-- Certifique-se de ter os seguintes requisitos instalados em sua máquina:
+ 
+ *Certifique-se de ter os seguintes requisitos instalados em sua máquina:*
 
 - Node.js (v14 ou superior)
 
